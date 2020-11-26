@@ -11,7 +11,7 @@ Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
 
 This project is currently a work-in-progress; there will always be more
-interesting stats to display.
+interesting stats to display. 
 
 ## Background 
 
